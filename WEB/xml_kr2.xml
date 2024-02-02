@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="kr2.css"?>
+<BASE>
+    <HEADER>PL/SQL Developer</HEADER>
+    <ZAG>1 вакансия </ZAG>
+        <MARKER>•</MARKER><TEXT>PL/SQL Resource with Web Skills and Java</TEXT>
+        <MARKER>•</MARKER><TEXT>Resource will use DHTML / HTML on top of PL/SQL with some
+            JSP's and other Java(e.g. bus handlers)</TEXT>
+    <ZAG>2 вакансия                      </ZAG>
+        <MARKER>•</MARKER><TEXT>PL/SQL Developers with Unix Scripting</TEXT>
+    <ZAG>C++ Unix Developer</ZAG>
+        <MARKER>•</MARKER><TEXT>Опыт программирования на C++ под Unix, хорошая математическая 
+            подготовка</TEXT>
+        <MARKER>•</MARKER><TEXT>Знания SQL</TEXT>
+        <MARKER>•</MARKER><TEXT>Знание Sybase является плюсом                |</TEXT>
+    <ZAG>QA Manager                               I</ZAG>
+            <MARKER>•</MARKER><TEXT>Минимум 2 года опыта в QA, а также опыт руководства небольшим 
+            коллективом
+             (2-3 человека)</TEXT>
+             <MARKER>•</MARKER><TEXT>Практическое знание QA процессов и технологий </TEXT>    
+    <ZAG>Технические знания:</ZAG>
+            <MARKER>•</MARKER><TEXT>Unix scripting</TEXT>
+            <MARKER>•</MARKER><TEXT>Relational databases, особенно Oracle</TEXT>
+            <MARKER>•</MARKER><TEXT>Silktest или аналоги</TEXT>
+
+    <LOWTEXT>&lt;&lt;Просьба посылать резюме с указанием кода 6211 по адресу:&gt;&gt;</LOWTEXT>
+    <LOWTEXT>&lt;ruscon@ruscon.ru&gt;</LOWTEXT>        
+</BASE>
