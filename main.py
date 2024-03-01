@@ -1,7 +1,12 @@
 import random
-import sys
-
+import pickle
+import requests
 import vk_api
-#sys.path.append('C:/users/sereb/appdata/local/packages/pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0/localcache/local-packages/python38/site-packages')
-#from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
-#print(sys.path)
+from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType 
+
+vk_session = vk_api.VkApi(token='vk1.a.l1-hDX_RdQh67WabeW')
+longpoll = VkBotLongPoll(vk_session, '224606869')
+vk = vk_session.get_api()
+
+
+# ключ vk1.a.l1-hDX_RdQh67WabeW id 224606869
